@@ -100,3 +100,27 @@ video {
     display: block;
     margin: 0 auto;
 }
+
+#describe-issue {}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.form-container {
+    margin-bottom: 20px;
+}
+
+#description {
+    width: 30%;
+    height: 10vh;
+    margin-top: 15px;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
