@@ -82,3 +82,21 @@ header {
 .common-solutions-list p {
     margin: 10px 0;
 }
+
+/* Add CSS to style the video section */
+.video-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.video-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+video {
+    width: 100%;
+    max-width: 800px;
+    display: block;
+    margin: 0 auto;
+}
