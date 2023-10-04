@@ -67,3 +67,18 @@ header {
     margin: 0 auto;
     padding: 20px;
 }
+
+.common-solutions-title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.common-solutions-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.common-solutions-list p {
+    margin: 10px 0;
+}
