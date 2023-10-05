@@ -45,11 +45,6 @@ header {
     margin: 20px 0;
 }
 
-.header-description {
-    text-align: left;
-    margin-top: 20px;
-}
-
 .topnav {
     background-color: #444;
     overflow: hidden;
@@ -68,12 +63,6 @@ header {
 .topnav a:hover {
     background-color: #555;
     color: #ff6600;
-}
-
-.main {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
 }
 
 .common-solutions-title {
@@ -134,10 +123,6 @@ footer {
     border: 5px solid #ff6600;
     padding: 20px;
     box-shadow: 0px 0px 10px black;
-}
-
-.form-container {
-    margin-bottom: 20px;
 }
 
 .form-group {
