@@ -1,39 +1,46 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# PC Solutions Website
 
-Welcome,
+Welcome to the PC Solutions website! This website provides valuable information and resources to help users troubleshoot and resolve common computer issues, both software and hardware related.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [Accessibility](#accessibility)
+- [credits](#credits)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Features
 
-## Codeanywhere Reminders
+- **Common Solutions:** Find solutions to the most common software and hardware problems encountered by computer users.
+- **Gallery:** Explore a gallery of computer software, hardware, and service categories.
+- **Contact Us:** Get in touch with our team for personalized support through our contact form.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Usage
 
-`python3 -m http.server`
+To access the website, simply navigate to [PC Solutions](https://pontaaaa.github.io/PC-Solutions/).
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Common Solutions
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Browse through our collection of common solutions to troubleshoot and resolve various computer issues.
 
-`http_server`
+### Gallery
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Explore our gallery, which is categorized into Software, Hardware, and Services, to find useful information and resources related to each category.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Contact Us
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+If you need personalized assistance or have specific questions about your computer issues, feel free to contact us using the provided contact form on the website.
 
-To log into the Heroku toolbelt CLI:
+### Accessibility
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Our website scored:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+72 on Performance. 94 on Accessibility. 100 on Best practices. 100 on SEO.
 
----
+### Credits
 
-Happy coding!
+Code:
+Informational help from https://www.w3schools.com
+
+Media:
+Images and video from: https://www.pexels.com 
+Favicon from: https://icons8.com
