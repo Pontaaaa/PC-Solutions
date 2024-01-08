@@ -46,6 +46,12 @@ The website has been validated using W3C Markup Validator and W3C CSS Validator.
 
 ![Lighthouse Results](assets/images/lighthouse.PNG)
 
+### Manual Testing
+
+This website has been tested and worked on using both smaller and bigger screen sizes.
+
+The website smoothly transitions and converts according to the screen size, allowing for a comfortable experinces on all devices.
+
 ## Deployment
 
 You can enter the website by visiting [here](https://pontaaaa.github.io/PC-Solutions/).
@@ -55,8 +61,7 @@ You can enter the website by visiting [here](https://pontaaaa.github.io/PC-Solut
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://pontaaaa.github.io/PC-Solutions/
-
+The live link can be found here - https://github.com/Pontaaaa/PC-Solutions
 
 ## Credits
 
