@@ -1,5 +1,9 @@
 # PC Solutions Website
 
+![Preview](assets/images/siteresponsive.PNG)
+
+## Overview
+
 Welcome to the PC Solutions website! This website provides valuable information and resources to help users troubleshoot and resolve common computer issues, both software and hardware related.
 
 ## Table of Contents
