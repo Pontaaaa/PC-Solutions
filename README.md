@@ -37,14 +37,14 @@ The website has been validated using W3C Markup Validator and W3C CSS Validator.
 
 ![CSS Results](assets/images/CSSvalidator.PNG)
 
+-Lighthouse
+    -The website recived the scores:
+        83 on Performance
+        97 on Accessibility
+        100 on Best Practices
+        92 on SEO
 
-
-
-### Accessibility
-
-Our website scored:
-
-72 on Performance. 94 on Accessibility. 100 on Best practices. 100 on SEO.
+![Lighthouse Results](assets/images/lighthouse.PNG)
 
 ### Credits
 
