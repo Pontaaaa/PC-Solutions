@@ -46,10 +46,24 @@ The website has been validated using W3C Markup Validator and W3C CSS Validator.
 
 ![Lighthouse Results](assets/images/lighthouse.PNG)
 
-### Credits
+## Deployment
+
+You can enter the website by visiting [here](https://pontaaaa.github.io/PC-Solutions/).
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://pontaaaa.github.io/PC-Solutions/
+
+
+## Credits
 
 Code:
 Informational help from https://www.w3schools.com
+
+## Media
 
 Media:
 Images and video from: https://www.pexels.com 
