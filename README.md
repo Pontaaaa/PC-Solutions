@@ -6,33 +6,20 @@
 
 Welcome to the PC Solutions website! This website provides valuable information and resources to help users troubleshoot and resolve common computer issues, both software and hardware related.
 
-## Table of Contents
-- [Features](#features)
-- [Usage](#usage)
-- [Accessibility](#accessibility)
-- [credits](#credits)
-
 ## Features
 
-- **Common Solutions:** Find solutions to the most common software and hardware problems encountered by computer users.
-- **Gallery:** Explore a gallery of computer software, hardware, and service categories.
-- **Contact Us:** Get in touch with our team for personalized support through our contact form.
+### Existing Features
 
-## Usage
+- **About Us** Small section of quick information to be informed about the website.
+- **Common Solutions** Information about the most common solutions, for both software and hardware issues.
+- **Contact Us** Email submition form, in case more informational help is required.
 
-To access the website, simply navigate to [PC Solutions](https://pontaaaa.github.io/PC-Solutions/).
+## Technologies Used
 
-### Common Solutions
+- HTML
+- CSS
 
-Browse through our collection of common solutions to troubleshoot and resolve various computer issues.
-
-### Gallery
-
-Explore our gallery, which is categorized into Software, Hardware, and Services, to find useful information and resources related to each category.
-
-### Contact Us
-
-If you need personalized assistance or have specific questions about your computer issues, feel free to contact us using the provided contact form on the website.
+## Testing
 
 ### Accessibility
 
