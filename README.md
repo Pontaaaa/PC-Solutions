@@ -21,6 +21,25 @@ Welcome to the PC Solutions website! This website provides valuable information 
 
 ## Testing
 
+The website has been validated using W3C Markup Validator and W3C CSS Validator.
+
+* [W3C Markup Validtor](https://validator.w3.org/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Results
+
+-HTML
+    -No errors were returned after passing through W3C HTML Validator.
+-CSS
+    -No errors were returned after passing through W3C CSS Validator
+
+![HTML Results](assets/images/htmlvalidator.PNG)
+
+![CSS Results](assets/images/CSSvalidator.PNG)
+
+
+
+
 ### Accessibility
 
 Our website scored:
