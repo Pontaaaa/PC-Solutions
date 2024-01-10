@@ -10,9 +10,14 @@ Welcome to the PC Solutions website! This website provides valuable information 
 
 ### Existing Features
 
-- **About Us** Small section of quick information to be informed about the website.
+- **About Us** Section of text about us. Bringing up Our Story, Our Approach as well as the Help section.
 - **Common Solutions** Information about the most common solutions, for both software and hardware issues.
-- **Contact Us** Email submition form, in case more informational help is required.
+- **Contact Us** Our Email submition form, if more assistance is required.
+
+### Features Left to Implement
+
+- **Photo Gallery**: Gallery of photos for further instructions.
+- **Upload Photo**: Feature to upload a photo along with your Email.
 
 ## Technologies Used
 
