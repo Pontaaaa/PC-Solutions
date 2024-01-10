@@ -10,7 +10,7 @@ Welcome to the PC Solutions website! This website provides valuable information 
 
 ### Existing Features
 
-- **About Us** Section of text about us. Bringing up Our Story, Our Approach as well as the Help section.
+- **About Us** Section of text about us. Bringing up Our Story, Our Approach as well as our Help section.
 - **Common Solutions** Information about the most common solutions, for both software and hardware issues.
 - **Contact Us** Our Email submition form, if more assistance is required.
 
@@ -55,11 +55,11 @@ The website has been validated using W3C Markup Validator and W3C CSS Validator.
 
 This website has been tested and worked on using both smaller and bigger screen sizes.
 
-The website smoothly transitions and converts according to the screen size, allowing for a comfortable experinces on all devices.
+The website smoothly transitions and converts according to the screen size, allowing for a comfortable experince on all devices.
 
 ## Deployment
 
-You can enter the website by visiting [here](https://pontaaaa.github.io/PC-Solutions/).
+You can visit the website by clicking [here](https://pontaaaa.github.io/PC-Solutions/).
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
